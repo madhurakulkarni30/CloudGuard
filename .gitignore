@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+cloudguard.db
+secret.key
+storage/*.enc
+storage/download_*

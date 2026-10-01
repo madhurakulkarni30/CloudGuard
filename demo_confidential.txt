@@ -1,0 +1,3 @@
+CLOUDGUARD DEMO DATA
+Student: Exhibition Demo for Avishkar Competition Devchand College, ARjunanagar
+Purpose: Demonstrate encrypted cloud-style storage.
